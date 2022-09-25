@@ -6,7 +6,9 @@ Built with Aloha in Hawaii 🌊
 
 Thank you to the Hawaii Public Library System for making such an amazing book available for free!
 
-
+```bash
+import "github.com/mbarley333/gate"
+```
 
 # testing
 This library uses [gotestdox](https://github.com/bitfield/gotestdox) to create sentences in the testing output.
