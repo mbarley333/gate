@@ -11,7 +11,7 @@ Thank you to the Hawaii Public Library System for making such an amazing book av
 # testing
 This library uses [gotestdox](https://github.com/bitfield/gotestdox) to create sentences in the testing output.
 
-bash```
+```bash
 ❯ gotestdox
 gate:
  ✔ AND output is false when input a equals false and input b equals false (0.00s)
