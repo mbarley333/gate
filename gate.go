@@ -15,6 +15,8 @@ func OR(a, b bool) bool {
 
 	if a != b {
 		result = true
+	} else if a && b {
+		result = true
 	}
 
 	return result
