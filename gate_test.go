@@ -1,8 +1,9 @@
 package gate_test
 
 import (
-	"gate"
 	"testing"
+
+	"github.com/mbarley333/gate"
 )
 
 func TestANDOutputIsTrueWhenInputAEqualsTrueAndInputBEqualsTrue(t *testing.T) {
