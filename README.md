@@ -14,6 +14,10 @@ import "github.com/mbarley333/gate"
 This library uses [gotestdox](https://github.com/bitfield/gotestdox) to create sentences in the testing output.
 
 ```bash
+go install github.com/bitfield/gotestdox/cmd/gotestdox@latest
+```
+
+```bash
 ❯ gotestdox
 gate:
  ✔ AND output is false when input a equals false and input b equals false (0.00s)
